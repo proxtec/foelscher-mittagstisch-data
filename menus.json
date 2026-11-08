@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-08T17:06:45+01:00",
+ "updated": "2026-11-08T17:16:12+01:00",
  "date": "2026-11-08",
  "restaurants": [
+  {
+   "id": "fleischerei-gies",
+   "name": "Fleischerei Gies",
+   "premium": true,
+   "phone": "06648 7527",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
+   "dishes": [],
+   "days": [],
+   "status": "closed"
+  },
   {
    "id": "metzgerei-schneider",
    "name": "Fleischerei Schneider",
@@ -18,6 +35,122 @@
     5
    ],
    "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
+   "dishes": [],
+   "days": [
+    {
+     "date": "2026-11-09",
+     "dishes": [
+      {
+       "name": "Gefüllte Paprikaschoten mit Salzkartoffeln und Salat",
+       "price": 9.0,
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-09"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "dishes": [
+      {
+       "name": "Hähnchencurry mit Reis und Brokkoli",
+       "price": 9.0,
+       "date": "2026-11-10"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "dishes": [
+      {
+       "name": "Paprikaschnitzel mit Pommes Frites und Salat",
+       "price": 9.0,
+       "date": "2026-11-11"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-11"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "dishes": [
+      {
+       "name": "Kassler Braten mit Klößen und Apfel-Rotkohl",
+       "price": 9.0,
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-12"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Schwäbische Maultaschen,Tomatensoße, geschmelzte Zwiebeln, Salat",
+       "price": 9.0,
+       "date": "2026-11-13"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-13"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "dishes": [
+      {
+       "name": "Chili con Carne mit Brötchen",
+       "price": 6.8,
+       "date": "2026-11-14"
+      },
+      {
+       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
+       "price": 9.0,
+       "daily": true,
+       "date": "2026-11-14"
+      }
+     ]
+    }
+   ],
+   "status": "closed"
+  },
+  {
+   "id": "metzgerei-wiegand",
+   "name": "Metzgerei Wiegand",
+   "premium": true,
+   "address": "Bronnzeller Straße 37, 36043 Fulda",
+   "phone": "0661 48363",
+   "lunchHours": "11:30–14:00",
+   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
+   "lunchDays": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
    "dishes": [],
    "days": [],
    "status": "closed"
@@ -289,10 +422,9 @@
    "status": "link"
   },
   {
-   "id": "fleischerei-gies",
-   "name": "Fleischerei Gies",
+   "id": "es-bar",
+   "name": "E.S-Bar",
    "premium": false,
-   "phone": "06648 7527",
    "lunchDays": [
     0,
     1,
@@ -300,9 +432,750 @@
     3,
     4
    ],
-   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
+   "fallbackUrl": "https://www.es-bar.com/assets/es-bar/speisekarte_esbar.pdf",
    "dishes": [],
-   "days": [],
+   "days": [
+    {
+     "date": "2026-11-09",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-09",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-09",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-09",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-09",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-09",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-09",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-09",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-09",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-09",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-09"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-10",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-10",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-10",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-10",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-10",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-10",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-10",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-10",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-10",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-10"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-10"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-11",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-11",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-11",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-11",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-11",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-11",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-11",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-11",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-11",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-11"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-11"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-11"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-12",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-12",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-12",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-12",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-12",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-12",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-12",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-12",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-12",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-12"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-13",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-13",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-13",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-13",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-13",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-13",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-13",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-13",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-13",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-13"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-13"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-13"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-16",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-16",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-16",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-16",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-16",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-16",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-16",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-16",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-16",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-17",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-17",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-17",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-17",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-17",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-17",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-17",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-17",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-17",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-18",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-18",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-18",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-18",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-18",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-18",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-18",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-18",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-18",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-19",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-19",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-19",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-19",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-19",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-19",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-19",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-19",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-19",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-19"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-20",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-20",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-20",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-20",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-20",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-20",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-20",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-20",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-20",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-20"
+      }
+     ]
+    }
+   ],
    "status": "closed"
   },
   {
@@ -322,26 +1195,103 @@
    ],
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [],
-   "days": [],
-   "status": "closed"
-  },
-  {
-   "id": "metzgerei-wiegand",
-   "name": "Metzgerei Wiegand",
-   "premium": false,
-   "address": "Bronnzeller Straße 37, 36043 Fulda",
-   "phone": "0661 48363",
-   "lunchHours": "11:30–14:00",
-   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
-   "lunchDays": [
-    1,
-    2,
-    3,
-    4
+   "days": [
+    {
+     "date": "2026-11-08",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Gegrillte Jackfruit-Bratwurst mit hausgemachter Currysauce und Potato Wedges",
+       "price": 7.87,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Vegetarische Spätzlepfanne mit Gemüse und Petersilien-Walnusspesto",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Gyros von der Hähnchenbrust mit Weißkrautsalat Knoblauchdip und Langkornreis",
+       "price": 8.27,
+       "meal": "mittag",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
+       "price": 7.37,
+       "meal": "abend",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-08"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-08"
+      }
+     ]
+    }
    ],
-   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
-   "dishes": [],
-   "days": [],
    "status": "closed"
   }
  ]
