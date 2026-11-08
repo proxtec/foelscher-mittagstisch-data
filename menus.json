@@ -1,0 +1,72 @@
+{
+ "updated": "2026-11-08T15:37:55+01:00",
+ "date": "2026-11-08",
+ "restaurants": [
+  {
+   "id": "fleischerei-gies",
+   "name": "Fleischerei Gies",
+   "premium": true,
+   "phone": "06648 7527",
+   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
+   "dishes": [],
+   "status": "closed"
+  },
+  {
+   "id": "metzgerei-schneider",
+   "name": "Fleischerei Schneider",
+   "premium": true,
+   "address": "Abtstor 3, 36037 Fulda",
+   "phone": "0661 72828",
+   "openingHours": "Mo 06:30–14:00 · Di, Mi 06:30–15:00 · Do, Fr 06:30–16:00 · Sa 07:30–13:00",
+   "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
+   "dishes": [],
+   "status": "closed"
+  },
+  {
+   "id": "metzgerei-wiegand",
+   "name": "Metzgerei Wiegand",
+   "premium": true,
+   "address": "Bronnzeller Straße 37, 36043 Fulda",
+   "phone": "0661 48363",
+   "lunchHours": "11:30–14:00",
+   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
+   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
+   "dishes": [],
+   "status": "closed"
+  },
+  {
+   "id": "subway-fulda",
+   "name": "Subway",
+   "premium": false,
+   "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
+   "dishes": [
+    {
+     "name": "Sub des Tages: BBQ Rib",
+     "price": 3.99,
+     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+     "date": "2026-11-08"
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "id": "metzgerei-wehner",
+   "name": "Fleischerei Wehner",
+   "premium": false,
+   "fallbackUrl": "https://www.instagram.com/fleischerei_wehner/",
+   "dishes": [],
+   "status": "link"
+  },
+  {
+   "id": "mensa-hs-fulda",
+   "name": "Mensa Hochschule Fulda",
+   "premium": false,
+   "address": "Marquardstraße 47, 36039 Fulda",
+   "phone": "0661 67918840",
+   "lunchHours": "Mo–Fr 11:15–14:00 · Sa 11:30–14:00",
+   "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
+   "dishes": [],
+   "status": "closed"
+  }
+ ]
+}
