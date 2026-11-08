@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:44:39+01:00",
+ "updated": "2026-11-08T17:51:13+01:00",
  "date": "2026-11-08",
  "restaurants": [
   {
@@ -52,6 +52,17 @@
      ]
     },
     {
+     "date": "2026-11-11",
+     "dishes": [
+      {
+       "name": "Lauch-Speck-Rahmschnitzel mit Rösti und gemischtem Blattsalat (',>%* F,9",
+       "price": 9.4,
+       "date": "2026-11-11",
+       "note": "Menü 1"
+      }
+     ]
+    },
+    {
      "date": "2026-11-12",
      "dishes": [
       {
@@ -71,6 +82,12 @@
     {
      "date": "2026-11-13",
      "dishes": [
+      {
+       "name": "Seelachs-Schlemmerfilet mit Rahmsoße, Reis und gemischtem Blattsalat *9",
+       "price": 9.4,
+       "date": "2026-11-13",
+       "note": "Menü 1"
+      },
       {
        "name": "Kartoffel-Hackfleischauflauf, dazu Jogurt",
        "price": 7.9,
