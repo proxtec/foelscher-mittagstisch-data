@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:16:12+01:00",
+ "updated": "2026-11-08T17:26:14+01:00",
  "date": "2026-11-08",
  "restaurants": [
   {
@@ -1288,6 +1288,101 @@
        "price": 7.92,
        "meal": "abend",
        "date": "2026-11-08"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Gegrillte Jackfruit-Bratwurst mit hausgemachter Currysauce und Potato Wedges",
+       "price": 7.87,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Vegetarische Spätzlepfanne mit Gemüse und Petersilien-Walnusspesto",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Gyros von der Hähnchenbrust mit Weißkrautsalat Knoblauchdip und Langkornreis",
+       "price": 8.27,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
+       "price": 7.37,
+       "meal": "abend",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-09"
       }
      ]
     }
