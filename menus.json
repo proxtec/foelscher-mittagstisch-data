@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:51:13+01:00",
+ "updated": "2026-11-08T18:00:26+01:00",
  "date": "2026-11-08",
  "restaurants": [
   {
@@ -27,10 +27,65 @@
        "note": "Menü 1"
       },
       {
-       "name": "Blumenkohl-Käsemedaillon mit Nudeln, Rahmsoße und Obstdessert (veget.) S*9",
+       "name": "Blumenkohl-Käsemedaillon mit Nudeln, Rahmsoße und Obstdessert (veget.)",
        "price": 7.9,
        "date": "2026-11-09",
        "note": "Menü 2"
+      },
+      {
+       "name": "Salat „Art des Hauses“ mit verschiedenen Salaten",
+       "price": 6.8,
+       "date": "2026-11-09",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-09",
+       "note": "täglich",
+       "daily": true
       }
      ]
     },
@@ -38,16 +93,71 @@
      "date": "2026-11-10",
      "dishes": [
       {
-       "name": "Putengulasch Ne ni Champignon und Spätzle in Rahmsoße, dazu",
+       "name": "Putengulasch Ne ni Champignon und Spätzle in Rahmsoße, dazu gemischter Blattsalat",
        "price": 9.9,
        "date": "2026-11-10",
        "note": "Menü 1"
       },
       {
-       "name": "Hackbällchen in Paprikasoße mit Bandnudeln und Bohnensalat \",2*# .9",
+       "name": "Hackbällchen in Paprikasoße mit Bandnudeln und Bohnensalat",
        "price": 7.9,
        "date": "2026-11-10",
        "note": "Menü 2"
+      },
+      {
+       "name": "Salat „American“ mit Eisbergsalat und Hähnchennuggets",
+       "price": 6.8,
+       "date": "2026-11-10",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-10",
+       "note": "täglich",
+       "daily": true
       }
      ]
     },
@@ -55,10 +165,71 @@
      "date": "2026-11-11",
      "dishes": [
       {
-       "name": "Lauch-Speck-Rahmschnitzel mit Rösti und gemischtem Blattsalat (',>%* F,9",
+       "name": "Lauch-Speck-Rahmschnitzel mit Rösti und gemischtem Blattsalat",
        "price": 9.4,
        "date": "2026-11-11",
        "note": "Menü 1"
+      },
+      {
+       "name": "beats! mit feiner Champignonsoße und geriebener Hartkäse, dazu Obst (veget.)",
+       "price": 7.9,
+       "date": "2026-11-11",
+       "note": "Menü 2"
+      },
+      {
+       "name": "Ratsherrensalat mit Tomaten, Gurken, Paprika und Käse",
+       "price": 6.8,
+       "date": "2026-11-11",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-11",
+       "note": "täglich",
+       "daily": true
       }
      ]
     },
@@ -66,16 +237,71 @@
      "date": "2026-11-12",
      "dishes": [
       {
-       "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben *&*®)",
+       "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
        "price": 8.9,
        "date": "2026-11-12",
        "note": "Menü 1"
       },
       {
-       "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.) %*®",
+       "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
        "price": 7.9,
        "date": "2026-11-12",
        "note": "Menü 2"
+      },
+      {
+       "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
+       "price": 6.8,
+       "date": "2026-11-12",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
       }
      ]
     },
@@ -83,7 +309,7 @@
      "date": "2026-11-13",
      "dishes": [
       {
-       "name": "Seelachs-Schlemmerfilet mit Rahmsoße, Reis und gemischtem Blattsalat *9",
+       "name": "Seelachs-Schlemmerfilet mit Rahmsoße, Reis und gemischtem Blattsalat",
        "price": 9.4,
        "date": "2026-11-13",
        "note": "Menü 1"
@@ -93,6 +319,121 @@
        "price": 7.9,
        "date": "2026-11-13",
        "note": "Menü 2"
+      },
+      {
+       "name": "Bunter Salatteller",
+       "price": 6.8,
+       "date": "2026-11-13",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "dishes": [
+      {
+       "name": "Vogelsberger Kartoffelsuppe mit Würstchen und Brötchen",
+       "price": 6.5,
+       "date": "2026-11-14",
+       "note": "Tagesgericht"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
       }
      ]
     }
