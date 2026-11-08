@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:59:01+01:00",
+ "updated": "2026-11-08T17:06:45+01:00",
  "date": "2026-11-08",
  "restaurants": [
   {
@@ -196,6 +196,83 @@
        "price": 3.99,
        "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
        "date": "2026-11-21"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-22"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-24"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-25"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-28"
       }
      ]
     }
