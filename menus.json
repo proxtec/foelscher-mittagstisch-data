@@ -1,16 +1,7 @@
 {
- "updated": "2026-11-08T15:37:55+01:00",
+ "updated": "2026-11-08T16:59:01+01:00",
  "date": "2026-11-08",
  "restaurants": [
-  {
-   "id": "fleischerei-gies",
-   "name": "Fleischerei Gies",
-   "premium": true,
-   "phone": "06648 7527",
-   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
-   "dishes": [],
-   "status": "closed"
-  },
   {
    "id": "metzgerei-schneider",
    "name": "Fleischerei Schneider",
@@ -18,26 +9,32 @@
    "address": "Abtstor 3, 36037 Fulda",
    "phone": "0661 72828",
    "openingHours": "Mo 06:30–14:00 · Di, Mi 06:30–15:00 · Do, Fr 06:30–16:00 · Sa 07:30–13:00",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
    "dishes": [],
-   "status": "closed"
-  },
-  {
-   "id": "metzgerei-wiegand",
-   "name": "Metzgerei Wiegand",
-   "premium": true,
-   "address": "Bronnzeller Straße 37, 36043 Fulda",
-   "phone": "0661 48363",
-   "lunchHours": "11:30–14:00",
-   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
-   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
-   "dishes": [],
+   "days": [],
    "status": "closed"
   },
   {
    "id": "subway-fulda",
    "name": "Subway",
    "premium": false,
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
    "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
    "dishes": [
     {
@@ -45,6 +42,162 @@
      "price": 3.99,
      "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
      "date": "2026-11-08"
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-08",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-08"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-09"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-11"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-12"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-13"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-14"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-15"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-19"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-20"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-21"
+      }
+     ]
     }
    ],
    "status": "ok"
@@ -55,7 +208,25 @@
    "premium": false,
    "fallbackUrl": "https://www.instagram.com/fleischerei_wehner/",
    "dishes": [],
+   "days": [],
    "status": "link"
+  },
+  {
+   "id": "fleischerei-gies",
+   "name": "Fleischerei Gies",
+   "premium": false,
+   "phone": "06648 7527",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
+   "dishes": [],
+   "days": [],
+   "status": "closed"
   },
   {
    "id": "mensa-hs-fulda",
@@ -64,8 +235,36 @@
    "address": "Marquardstraße 47, 36039 Fulda",
    "phone": "0661 67918840",
    "lunchHours": "Mo–Fr 11:15–14:00 · Sa 11:30–14:00",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [],
+   "days": [],
+   "status": "closed"
+  },
+  {
+   "id": "metzgerei-wiegand",
+   "name": "Metzgerei Wiegand",
+   "premium": false,
+   "address": "Bronnzeller Straße 37, 36043 Fulda",
+   "phone": "0661 48363",
+   "lunchHours": "11:30–14:00",
+   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
+   "lunchDays": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
+   "dishes": [],
+   "days": [],
    "status": "closed"
   }
  ]
