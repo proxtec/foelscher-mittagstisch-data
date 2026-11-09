@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T10:19:04+01:00",
+ "updated": "2026-11-09T15:14:20+01:00",
  "date": "2026-11-09",
  "restaurants": [
   {
@@ -1501,50 +1501,8 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Vollkornpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Weizenpasta mit Gorgonzolasauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Vollkornpasta mit Gorgonzolasauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
      "name": "Gegrillte Jackfruit-Bratwurst mit hausgemachter Currysauce und Potato Wedges",
      "price": 7.87,
-     "meal": "mittag",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Vegetarische Spätzlepfanne mit Gemüse und Petersilien-Walnusspesto",
-     "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-09"
     },
@@ -1555,20 +1513,32 @@
      "date": "2026-11-09"
     },
     {
+     "name": "Weizenpasta mit Sauce Bolognese",
+     "price": 6.77,
+     "meal": "mittag",
+     "date": "2026-11-09"
+    },
+    {
+     "name": "Weizenpasta mit Gorgonzolasauce",
+     "price": 6.37,
+     "meal": "mittag",
+     "date": "2026-11-09"
+    },
+    {
      "name": "Indisches Kokos Dal mit Basmatireis Rezept von Studentin Egberonke",
      "price": 6.37,
      "meal": "abend",
      "date": "2026-11-09"
     },
     {
-     "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
-     "price": 6.77,
+     "name": "Gemüse-Nuggets mit süß-saurer-Curry Dip und Pommes frites",
+     "price": 6.97,
      "meal": "abend",
      "date": "2026-11-09"
     },
     {
-     "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
-     "price": 7.37,
+     "name": "Chicken Nuggets mit süß-saurer-Curry Dip und Pommes frites",
+     "price": 7.77,
      "meal": "abend",
      "date": "2026-11-09"
     },
@@ -1602,50 +1572,8 @@
      "date": "2026-11-09",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Vollkornpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Weizenpasta mit Gorgonzolasauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Vollkornpasta mit Gorgonzolasauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
        "name": "Gegrillte Jackfruit-Bratwurst mit hausgemachter Currysauce und Potato Wedges",
        "price": 7.87,
-       "meal": "mittag",
-       "date": "2026-11-09"
-      },
-      {
-       "name": "Vegetarische Spätzlepfanne mit Gemüse und Petersilien-Walnusspesto",
-       "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-09"
       },
@@ -1656,20 +1584,32 @@
        "date": "2026-11-09"
       },
       {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
+       "name": "Weizenpasta mit Gorgonzolasauce",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-09"
+      },
+      {
        "name": "Indisches Kokos Dal mit Basmatireis Rezept von Studentin Egberonke",
        "price": 6.37,
        "meal": "abend",
        "date": "2026-11-09"
       },
       {
-       "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
-       "price": 6.77,
+       "name": "Gemüse-Nuggets mit süß-saurer-Curry Dip und Pommes frites",
+       "price": 6.97,
        "meal": "abend",
        "date": "2026-11-09"
       },
       {
-       "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
-       "price": 7.37,
+       "name": "Chicken Nuggets mit süß-saurer-Curry Dip und Pommes frites",
+       "price": 7.77,
        "meal": "abend",
        "date": "2026-11-09"
       },
