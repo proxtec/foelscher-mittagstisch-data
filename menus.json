@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T13:54:44+01:00",
- "date": "2026-11-11",
+ "updated": "2026-11-12T14:56:54+01:00",
+ "date": "2026-11-12",
  "restaurants": [
   {
    "id": "fleischerei-gies",
@@ -17,146 +17,74 @@
    "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
    "dishes": [
     {
-     "name": "Lauch-Speck-Rahmschnitzel mit Rösti und gemischtem Blattsalat",
-     "price": 9.4,
-     "date": "2026-11-11",
+     "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
+     "price": 8.9,
+     "date": "2026-11-12",
      "note": "Menü 1"
     },
     {
-     "name": "beats! mit feiner Champignonsoße und geriebener Hartkäse, dazu Obst (veget.)",
+     "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
      "price": 7.9,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Menü 2"
     },
     {
-     "name": "Ratsherrensalat mit Tomaten, Gurken, Paprika und Käse",
+     "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
      "price": 6.8,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Menü 3"
     },
     {
      "name": "Schnitzel mit Soße, Pommes und Salat",
      "price": 8.8,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
      "price": 6.2,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Portion Gulaschsuppe mit Brötchen",
      "price": 7.6,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Salatteller",
      "price": 6.8,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
      "price": 6.5,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Salamibaguette",
      "price": 3.9,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     },
     {
      "name": "Schinkenbaguette",
      "price": 3.9,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "täglich",
      "daily": true
     }
    ],
    "days": [
-    {
-     "date": "2026-11-11",
-     "dishes": [
-      {
-       "name": "Lauch-Speck-Rahmschnitzel mit Rösti und gemischtem Blattsalat",
-       "price": 9.4,
-       "date": "2026-11-11",
-       "note": "Menü 1"
-      },
-      {
-       "name": "beats! mit feiner Champignonsoße und geriebener Hartkäse, dazu Obst (veget.)",
-       "price": 7.9,
-       "date": "2026-11-11",
-       "note": "Menü 2"
-      },
-      {
-       "name": "Ratsherrensalat mit Tomaten, Gurken, Paprika und Käse",
-       "price": 6.8,
-       "date": "2026-11-11",
-       "note": "Menü 3"
-      },
-      {
-       "name": "Schnitzel mit Soße, Pommes und Salat",
-       "price": 8.8,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.2,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Portion Gulaschsuppe mit Brötchen",
-       "price": 7.6,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salatteller",
-       "price": 6.8,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.5,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salamibaguette",
-       "price": 3.9,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Schinkenbaguette",
-       "price": 3.9,
-       "date": "2026-11-11",
-       "note": "täglich",
-       "daily": true
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "dishes": [
@@ -382,34 +310,18 @@
    "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
    "dishes": [
     {
-     "name": "Paprikaschnitzel mit Pommes Frites und Salat",
+     "name": "Kassler Braten mit Klößen und Apfel-Rotkohl",
      "price": 9.0,
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
      "price": 9.0,
      "daily": true,
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     }
    ],
    "days": [
-    {
-     "date": "2026-11-11",
-     "dishes": [
-      {
-       "name": "Paprikaschnitzel mit Pommes Frites und Salat",
-       "price": 9.0,
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Sülze mit Remoulade, Bratkartoffeln und Salat",
-       "price": 9.0,
-       "daily": true,
-       "date": "2026-11-11"
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "dishes": [
@@ -478,32 +390,17 @@
    "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
    "dishes": [
     {
-     "name": "Klops mit Zwiebeln und Beilage nach Wahl.",
-     "price": 8.5,
-     "date": "2026-11-11"
+     "name": "Gegrillte Haxe",
+     "price": 5.9,
+     "date": "2026-11-12"
     },
     {
-     "name": "Gefüllte Schinkenröllchen mit Reis und Tomatensoße.",
-     "price": 10.0,
-     "date": "2026-11-11"
+     "name": "Gekochtes Rippchen mit Sauerkraut und Kartoffelpüree.",
+     "price": 12.0,
+     "date": "2026-11-12"
     }
    ],
    "days": [
-    {
-     "date": "2026-11-11",
-     "dishes": [
-      {
-       "name": "Klops mit Zwiebeln und Beilage nach Wahl.",
-       "price": 8.5,
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Gefüllte Schinkenröllchen mit Reis und Tomatensoße.",
-       "price": 10.0,
-       "date": "2026-11-11"
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "dishes": [
@@ -553,148 +450,74 @@
     {
      "name": "Hamburger",
      "price": 8.5,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Der Klassiker"
     },
     {
      "name": "Cheeseburger",
      "price": 9.5,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "plus Käse und gebratenen Zwiebeln"
     },
     {
      "name": "BBQ Burger",
      "price": 11.0,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Bacon & BBQ-Soße"
     },
     {
      "name": "Chicken Burger",
      "price": 11.0,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Knuspriges Hähnchen, Caesar-Style"
     },
     {
      "name": "Grillgemüse Burger (vegetarisch)",
      "price": 9.5,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Mediterranes Gemüse im Brioche"
     },
     {
      "name": "Camembert Burger (vegetarisch)",
      "price": 11.0,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "Cremiger Käse mit Preiselbeeren"
     },
     {
      "name": "Kartoffelsuppe",
      "price": 7.0,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "mit Brot aus der Backstube"
     },
     {
      "name": "Gulaschsuppe",
      "price": 8.5,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "mit Brot aus der Backstube"
     },
     {
      "name": "Bratwurst",
      "price": 4.0,
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "note": "im Brötchen oder mit Brot"
     },
     {
      "name": "Rindswurst",
      "price": 4.0,
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Currywurst",
      "price": 4.5,
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Currywurst mit Pommes",
      "price": 8.0,
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     }
    ],
    "days": [
-    {
-     "date": "2026-11-11",
-     "dishes": [
-      {
-       "name": "Hamburger",
-       "price": 8.5,
-       "date": "2026-11-11",
-       "note": "Der Klassiker"
-      },
-      {
-       "name": "Cheeseburger",
-       "price": 9.5,
-       "date": "2026-11-11",
-       "note": "plus Käse und gebratenen Zwiebeln"
-      },
-      {
-       "name": "BBQ Burger",
-       "price": 11.0,
-       "date": "2026-11-11",
-       "note": "Bacon & BBQ-Soße"
-      },
-      {
-       "name": "Chicken Burger",
-       "price": 11.0,
-       "date": "2026-11-11",
-       "note": "Knuspriges Hähnchen, Caesar-Style"
-      },
-      {
-       "name": "Grillgemüse Burger (vegetarisch)",
-       "price": 9.5,
-       "date": "2026-11-11",
-       "note": "Mediterranes Gemüse im Brioche"
-      },
-      {
-       "name": "Camembert Burger (vegetarisch)",
-       "price": 11.0,
-       "date": "2026-11-11",
-       "note": "Cremiger Käse mit Preiselbeeren"
-      },
-      {
-       "name": "Kartoffelsuppe",
-       "price": 7.0,
-       "date": "2026-11-11",
-       "note": "mit Brot aus der Backstube"
-      },
-      {
-       "name": "Gulaschsuppe",
-       "price": 8.5,
-       "date": "2026-11-11",
-       "note": "mit Brot aus der Backstube"
-      },
-      {
-       "name": "Bratwurst",
-       "price": 4.0,
-       "date": "2026-11-11",
-       "note": "im Brötchen oder mit Brot"
-      },
-      {
-       "name": "Rindswurst",
-       "price": 4.0,
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Currywurst",
-       "price": 4.5,
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Currywurst mit Pommes",
-       "price": 8.0,
-       "date": "2026-11-11"
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "dishes": [
@@ -1360,6 +1183,80 @@
        "date": "2026-11-24"
       }
      ]
+    },
+    {
+     "date": "2026-11-25",
+     "dishes": [
+      {
+       "name": "Hamburger",
+       "price": 8.5,
+       "date": "2026-11-25",
+       "note": "Der Klassiker"
+      },
+      {
+       "name": "Cheeseburger",
+       "price": 9.5,
+       "date": "2026-11-25",
+       "note": "plus Käse und gebratenen Zwiebeln"
+      },
+      {
+       "name": "BBQ Burger",
+       "price": 11.0,
+       "date": "2026-11-25",
+       "note": "Bacon & BBQ-Soße"
+      },
+      {
+       "name": "Chicken Burger",
+       "price": 11.0,
+       "date": "2026-11-25",
+       "note": "Knuspriges Hähnchen, Caesar-Style"
+      },
+      {
+       "name": "Grillgemüse Burger (vegetarisch)",
+       "price": 9.5,
+       "date": "2026-11-25",
+       "note": "Mediterranes Gemüse im Brioche"
+      },
+      {
+       "name": "Camembert Burger (vegetarisch)",
+       "price": 11.0,
+       "date": "2026-11-25",
+       "note": "Cremiger Käse mit Preiselbeeren"
+      },
+      {
+       "name": "Kartoffelsuppe",
+       "price": 7.0,
+       "date": "2026-11-25",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Gulaschsuppe",
+       "price": 8.5,
+       "date": "2026-11-25",
+       "note": "mit Brot aus der Backstube"
+      },
+      {
+       "name": "Bratwurst",
+       "price": 4.0,
+       "date": "2026-11-25",
+       "note": "im Brötchen oder mit Brot"
+      },
+      {
+       "name": "Rindswurst",
+       "price": 4.0,
+       "date": "2026-11-25"
+      },
+      {
+       "name": "Currywurst",
+       "price": 4.5,
+       "date": "2026-11-25"
+      },
+      {
+       "name": "Currywurst mit Pommes",
+       "price": 8.0,
+       "date": "2026-11-25"
+      }
+     ]
     }
    ],
    "status": "ok"
@@ -1382,189 +1279,153 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
+     "name": "Paniertes Schweineschnitzel mit Lauch-Speckrahmsauce Ofen-Kartoffeln",
+     "price": 7.87,
+     "meal": "mittag",
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Szegediner Tofugulasch mit Semmelknödeln und Creme fraiche on top",
+     "price": 6.97,
+     "meal": "mittag",
+     "date": "2026-11-12"
+    },
+    {
      "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Vollkornpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
      "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Weizenpasta mit Cheddar-Cheese-Sauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Vollkornpasta mit Cheddar-Cheese-Sauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Linguine mit Meeres-Algen-Spaghetti in Tomatenpesto Cashew-Crumble und Rucola",
-     "price": 7.87,
-     "meal": "mittag",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Polentagratin mit Paprika-Zucchinigemüse und Mozzarella überbacken und Salatgarnitur",
-     "price": 7.27,
-     "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Gebratenes Putensteak mit Ananas-Curry-Sauce und Langkornreis",
-     "price": 8.47,
-     "meal": "mittag",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Paniertes Gemüseschnitzel mit Dip/Sauce des Tages und Langkornreis",
-     "price": 6.57,
-     "meal": "abend",
-     "date": "2026-11-11"
-    },
-    {
-     "name": "Paniertes Hähnchenschnitzel mit Dip/Sauce des Tages und Langkornreis",
      "price": 7.17,
      "meal": "abend",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Falafel-Teller mit Krautsalat und pflanzlichem Knoblauch-VeJog dazu Pommes frites",
+     "price": 7.49,
+     "meal": "abend",
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Geflügel-Döner-Teller mit Weißkrautsalat und Kräuterdip dazu Pommes frites",
+     "price": 8.49,
+     "meal": "abend",
+     "date": "2026-11-12"
     },
     {
      "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "abend",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Weizenpasta mit Kürbissauce",
+     "price": 6.37,
+     "meal": "abend",
+     "date": "2026-11-12"
     },
     {
      "name": "Feel-good-Bowl \"Winter\" mit Nudeln Ofen-Kürbis, Cocktailtomaten, Blattsalat, Rotkraut, Kichererbsen,Mais Hähnchennuggets Cashewkerne und Weintrauben dazu Orangen-Balsamico-Dressing",
      "price": 8.22,
      "meal": "abend",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
      "price": 7.92,
      "meal": "abend",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     },
     {
      "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
      "price": 7.92,
      "meal": "abend",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     }
    ],
    "days": [
     {
-     "date": "2026-11-11",
+     "date": "2026-11-12",
      "dishes": [
+      {
+       "name": "Paniertes Schweineschnitzel mit Lauch-Speckrahmsauce Ofen-Kartoffeln",
+       "price": 7.87,
+       "meal": "mittag",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Szegediner Tofugulasch mit Semmelknödeln und Creme fraiche on top",
+       "price": 6.97,
+       "meal": "mittag",
+       "date": "2026-11-12"
+      },
       {
        "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Vollkornpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
       },
       {
        "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
        "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Weizenpasta mit Cheddar-Cheese-Sauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Vollkornpasta mit Cheddar-Cheese-Sauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Linguine mit Meeres-Algen-Spaghetti in Tomatenpesto Cashew-Crumble und Rucola",
-       "price": 7.87,
-       "meal": "mittag",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
       },
       {
        "name": "Polentagratin mit Paprika-Zucchinigemüse und Mozzarella überbacken und Salatgarnitur",
-       "price": 7.27,
-       "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Gebratenes Putensteak mit Ananas-Curry-Sauce und Langkornreis",
-       "price": 8.47,
-       "meal": "mittag",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Paniertes Gemüseschnitzel mit Dip/Sauce des Tages und Langkornreis",
-       "price": 6.57,
-       "meal": "abend",
-       "date": "2026-11-11"
-      },
-      {
-       "name": "Paniertes Hähnchenschnitzel mit Dip/Sauce des Tages und Langkornreis",
        "price": 7.17,
        "meal": "abend",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Falafel-Teller mit Krautsalat und pflanzlichem Knoblauch-VeJog dazu Pommes frites",
+       "price": 7.49,
+       "meal": "abend",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Geflügel-Döner-Teller mit Weißkrautsalat und Kräuterdip dazu Pommes frites",
+       "price": 8.49,
+       "meal": "abend",
+       "date": "2026-11-12"
       },
       {
        "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "abend",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Weizenpasta mit Kürbissauce",
+       "price": 6.37,
+       "meal": "abend",
+       "date": "2026-11-12"
       },
       {
        "name": "Feel-good-Bowl \"Winter\" mit Nudeln Ofen-Kürbis, Cocktailtomaten, Blattsalat, Rotkraut, Kichererbsen,Mais Hähnchennuggets Cashewkerne und Weintrauben dazu Orangen-Balsamico-Dressing",
        "price": 8.22,
        "meal": "abend",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
       },
       {
        "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
        "price": 7.92,
        "meal": "abend",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
       },
       {
        "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
        "price": 7.92,
        "meal": "abend",
-       "date": "2026-11-11"
+       "date": "2026-11-12"
       }
      ]
     }
@@ -1587,24 +1448,13 @@
    "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
    "dishes": [
     {
-     "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+     "name": "Sub des Tages: Chicken Fajita",
      "price": 3.99,
      "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-     "date": "2026-11-11"
+     "date": "2026-11-12"
     }
    ],
    "days": [
-    {
-     "date": "2026-11-11",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-11"
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "dishes": [
@@ -1822,6 +1672,17 @@
        "price": 3.99,
        "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
        "date": "2026-12-01"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-02"
       }
      ]
     }
