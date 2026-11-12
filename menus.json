@@ -1,297 +1,7 @@
 {
- "updated": "2026-11-12T14:56:54+01:00",
+ "updated": "2026-11-12T19:19:46+01:00",
  "date": "2026-11-12",
  "restaurants": [
-  {
-   "id": "fleischerei-gies",
-   "name": "Fleischerei Gies",
-   "premium": true,
-   "phone": "06648 7527",
-   "lunchDays": [
-    0,
-    1,
-    2,
-    3,
-    4
-   ],
-   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
-   "dishes": [
-    {
-     "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
-     "price": 8.9,
-     "date": "2026-11-12",
-     "note": "Menü 1"
-    },
-    {
-     "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
-     "price": 7.9,
-     "date": "2026-11-12",
-     "note": "Menü 2"
-    },
-    {
-     "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
-     "price": 6.8,
-     "date": "2026-11-12",
-     "note": "Menü 3"
-    },
-    {
-     "name": "Schnitzel mit Soße, Pommes und Salat",
-     "price": 8.8,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
-     "price": 6.2,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Portion Gulaschsuppe mit Brötchen",
-     "price": 7.6,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Salatteller",
-     "price": 6.8,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
-     "price": 6.5,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Salamibaguette",
-     "price": 3.9,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    },
-    {
-     "name": "Schinkenbaguette",
-     "price": 3.9,
-     "date": "2026-11-12",
-     "note": "täglich",
-     "daily": true
-    }
-   ],
-   "days": [
-    {
-     "date": "2026-11-12",
-     "dishes": [
-      {
-       "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
-       "price": 8.9,
-       "date": "2026-11-12",
-       "note": "Menü 1"
-      },
-      {
-       "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
-       "price": 7.9,
-       "date": "2026-11-12",
-       "note": "Menü 2"
-      },
-      {
-       "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
-       "price": 6.8,
-       "date": "2026-11-12",
-       "note": "Menü 3"
-      },
-      {
-       "name": "Schnitzel mit Soße, Pommes und Salat",
-       "price": 8.8,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.2,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Portion Gulaschsuppe mit Brötchen",
-       "price": 7.6,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salatteller",
-       "price": 6.8,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.5,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salamibaguette",
-       "price": 3.9,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Schinkenbaguette",
-       "price": 3.9,
-       "date": "2026-11-12",
-       "note": "täglich",
-       "daily": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "dishes": [
-      {
-       "name": "Seelachs-Schlemmerfilet mit Rahmsoße, Reis und gemischtem Blattsalat",
-       "price": 9.4,
-       "date": "2026-11-13",
-       "note": "Menü 1"
-      },
-      {
-       "name": "Kartoffel-Hackfleischauflauf, dazu Jogurt",
-       "price": 7.9,
-       "date": "2026-11-13",
-       "note": "Menü 2"
-      },
-      {
-       "name": "Bunter Salatteller",
-       "price": 6.8,
-       "date": "2026-11-13",
-       "note": "Menü 3"
-      },
-      {
-       "name": "Schnitzel mit Soße, Pommes und Salat",
-       "price": 8.8,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.2,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Portion Gulaschsuppe mit Brötchen",
-       "price": 7.6,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salatteller",
-       "price": 6.8,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.5,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salamibaguette",
-       "price": 3.9,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Schinkenbaguette",
-       "price": 3.9,
-       "date": "2026-11-13",
-       "note": "täglich",
-       "daily": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "dishes": [
-      {
-       "name": "Vogelsberger Kartoffelsuppe mit Würstchen und Brötchen",
-       "price": 6.5,
-       "date": "2026-11-14",
-       "note": "Tagesgericht"
-      },
-      {
-       "name": "Schnitzel mit Soße, Pommes und Salat",
-       "price": 8.8,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.2,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Portion Gulaschsuppe mit Brötchen",
-       "price": 7.6,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salatteller",
-       "price": 6.8,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
-       "price": 6.5,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Salamibaguette",
-       "price": 3.9,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      },
-      {
-       "name": "Schinkenbaguette",
-       "price": 3.9,
-       "date": "2026-11-14",
-       "note": "täglich",
-       "daily": true
-      }
-     ]
-    }
-   ],
-   "status": "ok"
-  },
   {
    "id": "metzgerei-schneider",
    "name": "Fleischerei Schneider",
@@ -367,67 +77,6 @@
        "price": 9.0,
        "daily": true,
        "date": "2026-11-14"
-      }
-     ]
-    }
-   ],
-   "status": "ok"
-  },
-  {
-   "id": "metzgerei-wiegand",
-   "name": "Metzgerei Wiegand",
-   "premium": true,
-   "address": "Bronnzeller Straße 37, 36043 Fulda",
-   "phone": "0661 48363",
-   "lunchHours": "11:30–14:00",
-   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
-   "lunchDays": [
-    1,
-    2,
-    3,
-    4
-   ],
-   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
-   "dishes": [
-    {
-     "name": "Gegrillte Haxe",
-     "price": 5.9,
-     "date": "2026-11-12"
-    },
-    {
-     "name": "Gekochtes Rippchen mit Sauerkraut und Kartoffelpüree.",
-     "price": 12.0,
-     "date": "2026-11-12"
-    }
-   ],
-   "days": [
-    {
-     "date": "2026-11-12",
-     "dishes": [
-      {
-       "name": "Gegrillte Haxe",
-       "price": 5.9,
-       "date": "2026-11-12"
-      },
-      {
-       "name": "Gekochtes Rippchen mit Sauerkraut und Kartoffelpüree.",
-       "price": 12.0,
-       "date": "2026-11-12"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "dishes": [
-      {
-       "name": "Schollenfilet mit Kartoffeln und Gemüse dazu hausmacher Remoulade.",
-       "price": 12.0,
-       "date": "2026-11-13"
-      },
-      {
-       "name": "Fleischkäse mit Spiegelei und Beilage nach Wahl.",
-       "price": 9.0,
-       "date": "2026-11-13"
       }
      ]
     }
@@ -1262,6 +911,296 @@
    "status": "ok"
   },
   {
+   "id": "fleischerei-gies",
+   "name": "Fleischerei Gies",
+   "premium": false,
+   "phone": "06648 7527",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
+   "dishes": [
+    {
+     "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
+     "price": 8.9,
+     "date": "2026-11-12",
+     "note": "Menü 1"
+    },
+    {
+     "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
+     "price": 7.9,
+     "date": "2026-11-12",
+     "note": "Menü 2"
+    },
+    {
+     "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
+     "price": 6.8,
+     "date": "2026-11-12",
+     "note": "Menü 3"
+    },
+    {
+     "name": "Schnitzel mit Soße, Pommes und Salat",
+     "price": 8.8,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+     "price": 6.2,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Portion Gulaschsuppe mit Brötchen",
+     "price": 7.6,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Salatteller",
+     "price": 6.8,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+     "price": 6.5,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Salamibaguette",
+     "price": 3.9,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Schinkenbaguette",
+     "price": 3.9,
+     "date": "2026-11-12",
+     "note": "täglich",
+     "daily": true
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-12",
+     "dishes": [
+      {
+       "name": "Gaalrowebrei mit gekochten Bauchscheiben und Eisbeinscheiben",
+       "price": 8.9,
+       "date": "2026-11-12",
+       "note": "Menü 1"
+      },
+      {
+       "name": "Indische Reispfanne mit frischem Gemüse, dazu Dessert (veget.)",
+       "price": 7.9,
+       "date": "2026-11-12",
+       "note": "Menü 2"
+      },
+      {
+       "name": "Gemischter grüner Salat mit Thunfisch, Ei und Zwiebelringen",
+       "price": 6.8,
+       "date": "2026-11-12",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-12",
+       "note": "täglich",
+       "daily": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Seelachs-Schlemmerfilet mit Rahmsoße, Reis und gemischtem Blattsalat",
+       "price": 9.4,
+       "date": "2026-11-13",
+       "note": "Menü 1"
+      },
+      {
+       "name": "Kartoffel-Hackfleischauflauf, dazu Jogurt",
+       "price": 7.9,
+       "date": "2026-11-13",
+       "note": "Menü 2"
+      },
+      {
+       "name": "Bunter Salatteller",
+       "price": 6.8,
+       "date": "2026-11-13",
+       "note": "Menü 3"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-13",
+       "note": "täglich",
+       "daily": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "dishes": [
+      {
+       "name": "Vogelsberger Kartoffelsuppe mit Würstchen und Brötchen",
+       "price": 6.5,
+       "date": "2026-11-14",
+       "note": "Tagesgericht"
+      },
+      {
+       "name": "Schnitzel mit Soße, Pommes und Salat",
+       "price": 8.8,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.2,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Portion Gulaschsuppe mit Brötchen",
+       "price": 7.6,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salatteller",
+       "price": 6.8,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+       "price": 6.5,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Salamibaguette",
+       "price": 3.9,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      },
+      {
+       "name": "Schinkenbaguette",
+       "price": 3.9,
+       "date": "2026-11-14",
+       "note": "täglich",
+       "daily": true
+      }
+     ]
+    }
+   ],
+   "status": "ok"
+  },
+  {
    "id": "mensa-hs-fulda",
    "name": "Mensa Hochschule Fulda",
    "premium": false,
@@ -1278,30 +1217,6 @@
    ],
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
-    {
-     "name": "Paniertes Schweineschnitzel mit Lauch-Speckrahmsauce Ofen-Kartoffeln",
-     "price": 7.87,
-     "meal": "mittag",
-     "date": "2026-11-12"
-    },
-    {
-     "name": "Szegediner Tofugulasch mit Semmelknödeln und Creme fraiche on top",
-     "price": 6.97,
-     "meal": "mittag",
-     "date": "2026-11-12"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-12"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-12"
-    },
     {
      "name": "Polentagratin mit Paprika-Zucchinigemüse und Mozzarella überbacken und Salatgarnitur",
      "price": 7.17,
@@ -1356,30 +1271,6 @@
      "date": "2026-11-12",
      "dishes": [
       {
-       "name": "Paniertes Schweineschnitzel mit Lauch-Speckrahmsauce Ofen-Kartoffeln",
-       "price": 7.87,
-       "meal": "mittag",
-       "date": "2026-11-12"
-      },
-      {
-       "name": "Szegediner Tofugulasch mit Semmelknödeln und Creme fraiche on top",
-       "price": 6.97,
-       "meal": "mittag",
-       "date": "2026-11-12"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-12"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-12"
-      },
-      {
        "name": "Polentagratin mit Paprika-Zucchinigemüse und Mozzarella überbacken und Salatgarnitur",
        "price": 7.17,
        "meal": "abend",
@@ -1426,6 +1317,67 @@
        "price": 7.92,
        "meal": "abend",
        "date": "2026-11-12"
+      }
+     ]
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "id": "metzgerei-wiegand",
+   "name": "Metzgerei Wiegand",
+   "premium": false,
+   "address": "Bronnzeller Straße 37, 36043 Fulda",
+   "phone": "0661 48363",
+   "lunchHours": "11:30–14:00",
+   "openingHours": "Di 8–18 · Mi, Do 8–15 · Fr 8–18 · Sa 8–13 · So/Mo geschlossen",
+   "lunchDays": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://www.metzgerei-wiegand.de/mittagstisch/",
+   "dishes": [
+    {
+     "name": "Gegrillte Haxe",
+     "price": 5.9,
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Gekochtes Rippchen mit Sauerkraut und Kartoffelpüree.",
+     "price": 12.0,
+     "date": "2026-11-12"
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-12",
+     "dishes": [
+      {
+       "name": "Gegrillte Haxe",
+       "price": 5.9,
+       "date": "2026-11-12"
+      },
+      {
+       "name": "Gekochtes Rippchen mit Sauerkraut und Kartoffelpüree.",
+       "price": 12.0,
+       "date": "2026-11-12"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Schollenfilet mit Kartoffeln und Gemüse dazu hausmacher Remoulade.",
+       "price": 12.0,
+       "date": "2026-11-13"
+      },
+      {
+       "name": "Fleischkäse mit Spiegelei und Beilage nach Wahl.",
+       "price": 9.0,
+       "date": "2026-11-13"
       }
      ]
     }
