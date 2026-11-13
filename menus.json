@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:30:37+01:00",
+ "updated": "2026-11-13T10:48:01+01:00",
  "date": "2026-11-13",
  "restaurants": [
   {
@@ -1334,6 +1334,557 @@
        "date": "2026-11-13"
       }
      ]
+    },
+    {
+     "date": "2026-11-14",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-14"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-14"
+      },
+      {
+       "name": "Veganer Hokkaido-Pilaw mit Datteln, Sour-Cream oder Tomatenpesto",
+       "price": 7.17,
+       "meal": "mittag",
+       "date": "2026-11-14"
+      },
+      {
+       "name": "Gulasch halb & halb Weizenpasta",
+       "price": 8.27,
+       "meal": "mittag",
+       "date": "2026-11-14"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Ragù alla Genovese Penne mit Brew Bites Chunks Ragout",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Riesenrösti \"Caprese\" mit Tomaten und Mozzarella überbacken und einer Salatgarnitur",
+       "price": 6.97,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Hähnchenbruststeak mit Kokos-Curry-Sauce mit Zuckerschoten und Basmatireis",
+       "price": 8.07,
+       "meal": "mittag",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
+       "price": 7.37,
+       "meal": "abend",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Soja-Kokos-Gemüse mit Vollkornreis",
+       "price": 6.47,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Herzhafte Frikadelle mit Zwiebelsauce Salzkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+       "price": 8.37,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
+       "price": 7.17,
+       "meal": "mittag",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vollkorn-Pizza Gemüse mit Paprika, Zucchini, Tomaten und Gouda gebacken",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Rinderhacksteak mit Dip/Sauce des Tages und Langkornreis",
+       "price": 7.97,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Feel-good-Bowl \"Winter\" Ofen-Kürbis, Cocktailtomaten, Blattsalat, Rotkraut, Kichererbsen dazu Orangen-Balsamico-Dressing",
+       "price": 8.22,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala dazu Langkornreis Rezept von Studentin Paulina",
+       "price": 6.47,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Feel-good-Bowl \"Winter\" Ofen-Kürbis, Cocktailtomaten, Blattsalat, Rotkraut, Kichererbsen vegane Nuggets vegane Sour-Cream dazu Orangen-Balsamico-Dressing",
+       "price": 8.87,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Putengeschnetzeltes in Paprikasauce und Kartoffelpüree Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+       "price": 8.17,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Feel-good-Bowl \"Winter\" Ofen-Kürbis, Cocktailtomaten, Blattsalat, Rotkraut, Kichererbsen gebratenem Wildlachs Gorgonzola dazu Orangen-Balsamico-Dressing",
+       "price": 8.87,
+       "meal": "mittag",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Paniertes Gemüseschnitzel mit Dip/Sauce des Tages und Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Paniertes Hähnchenschnitzel mit Dip/Sauce des Tages und Langkornreis",
+       "price": 7.17,
+       "meal": "abend",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Ofenkartoffeln mit Sour-Cream und Salatgarnitur",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Bayrischer Apfelstrudel mit Vanillesauce",
+       "price": 6.97,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Cordon bleu vom Hähnchen mit Zitronensauce und buntem Erbsenreis",
+       "price": 7.27,
+       "meal": "mittag",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Gemüse Lasagne mit Tomatensauce und Rucola",
+       "price": 7.37,
+       "meal": "abend",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Geflügel-Döner-Teller mit Dip/Sauce des Tages und Langkornreis",
+       "price": 8.17,
+       "meal": "abend",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-19"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Vollkornpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Vollkornpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Weizenpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Vollkornpasta",
+       "price": 6.37,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Veganer Linseneintopf mit Grünkohl, Kartoffeln, 2 vegane Bockvürschte und Vollkornbrot",
+       "price": 7.47,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Buntes Geflügelfrikassee mit Langkornreis",
+       "price": 7.57,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Gebackenes Seelachsfilet auf buntem Reissalat und Kokos-Curry-Sauce",
+       "price": 9.07,
+       "meal": "mittag",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala mit Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Chili sin carne mit Dip/Sauce des Tages und Langkornreis",
+       "price": 6.57,
+       "meal": "abend",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Bratwurst mit Dip/Sauce des Tages und Langkornreis",
+       "price": 7.37,
+       "meal": "abend",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+       "price": 7.92,
+       "meal": "abend",
+       "date": "2026-11-20"
+      }
+     ]
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "id": "metzgerei-robert-mueller",
+   "name": "Metzgerei Robert Müller",
+   "premium": false,
+   "address": "Lehnerzer Straße 6, 36039 Fulda",
+   "phone": "06655 96030",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://www.metzgerei-robert-mueller.de/angebote/",
+   "dishes": [
+    {
+     "name": "Wiener Backfisch mit Kartoffelsalat und Rernoulade",
+     "price": 8.95,
+     "date": "2026-11-13"
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-13",
+     "dishes": [
+      {
+       "name": "Wiener Backfisch mit Kartoffelsalat und Rernoulade",
+       "price": 8.95,
+       "date": "2026-11-13"
+      }
+     ]
     }
    ],
    "status": "ok"
@@ -1644,24 +2195,6 @@
     }
    ],
    "status": "ok"
-  },
-  {
-   "id": "metzgerei-robert-mueller",
-   "name": "Metzgerei Robert Müller",
-   "premium": false,
-   "address": "Lehnerzer Straße 6, 36039 Fulda",
-   "phone": "06655 96030",
-   "lunchDays": [
-    0,
-    1,
-    2,
-    3,
-    4
-   ],
-   "fallbackUrl": "https://www.metzgerei-robert-mueller.de/angebote/",
-   "dishes": [],
-   "days": [],
-   "status": "fallback"
   },
   {
    "id": "metzgerei-wehner",
