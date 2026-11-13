@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:09:53+01:00",
+ "updated": "2026-11-13T10:24:22+01:00",
  "date": "2026-11-13",
  "restaurants": [
   {
@@ -71,6 +71,7 @@
    "id": "es-bar",
    "name": "E.S-Bar",
    "premium": false,
+   "address": "63619 Bad Orb",
    "lunchDays": [
     0,
     1,
@@ -1122,7 +1123,7 @@
    "id": "mensa-hs-fulda",
    "name": "Mensa Hochschule Fulda",
    "premium": false,
-   "address": "Marquardstraße 47, 36039 Fulda",
+   "address": "Leipziger Straße 123, 36037 Fulda",
    "phone": "0661 67918840",
    "lunchHours": "Mo–Fr 11:15–14:00 · Sa 11:30–14:00",
    "lunchDays": [
@@ -1387,6 +1388,10 @@
    "id": "subway-fulda",
    "name": "Subway",
    "premium": false,
+   "address": "Bahnhofstraße 5, 36037 Fulda",
+   "locations": [
+    "Alte Ziegelei 17, 36100 Petersberg"
+   ],
    "lunchDays": [
     0,
     1,
@@ -1641,9 +1646,28 @@
    "status": "ok"
   },
   {
+   "id": "metzgerei-robert-mueller",
+   "name": "Metzgerei Robert Müller",
+   "premium": false,
+   "address": "Lehnerzer Straße 6, 36039 Fulda",
+   "phone": "06655 96030",
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "fallbackUrl": "https://www.metzgerei-robert-mueller.de/angebote/",
+   "dishes": [],
+   "days": [],
+   "status": "fallback"
+  },
+  {
    "id": "metzgerei-wehner",
    "name": "Fleischerei Wehner",
    "premium": false,
+   "address": "Wallweg 26, 36043 Fulda",
    "fallbackUrl": "https://www.instagram.com/fleischerei_wehner/",
    "dishes": [],
    "days": [],
