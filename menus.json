@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:37:46+01:00",
+ "updated": "2026-11-15T12:33:07+01:00",
  "date": "2026-11-15",
  "restaurants": [
   {
@@ -1480,7 +1480,200 @@
    ],
    "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
    "dishes": [],
-   "days": [],
+   "days": [
+    {
+     "date": "2026-11-16",
+     "dishes": [
+      {
+       "name": "Hackfleischsoße „Jäger Art“ mit Nudeln und Salat",
+       "price": 9.0,
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "dishes": [
+      {
+       "name": "Hähnchenbrust i. Knuspermantel mit Kartoffelpüree und Lauchgemüse",
+       "price": 9.0,
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "dishes": [
+      {
+       "name": "Pfefferrahm-Schnitzel mit Kroketten und Salat",
+       "price": 9.0,
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "dishes": [
+      {
+       "name": "Rhöner Schweinebraten mit Semmelknödeln und Rosenkohl",
+       "price": 9.0,
+       "date": "2026-11-19"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-19"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "dishes": [
+      {
+       "name": "Scholle mit Dill-Senfsoße, Salzkartoffeln und Salat",
+       "price": 9.5,
+       "date": "2026-11-20"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-20"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "dishes": [
+      {
+       "name": "Lauch-Hackfleischsuppe mit Würstchen und Brötchen",
+       "price": 6.8,
+       "date": "2026-11-21"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-21"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "dishes": [
+      {
+       "name": "Putenrahmgeschnetzeltes mit Spätzle und Salat",
+       "price": 9.0,
+       "date": "2026-11-23"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "dishes": [
+      {
+       "name": "Cevapcici mit Reis und Paprikagemüse",
+       "price": 9.0,
+       "date": "2026-11-24"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-24"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "dishes": [
+      {
+       "name": "Gyros mit Zsatziki, Pommes Frites und Krautsalat",
+       "price": 9.0,
+       "date": "2026-11-25"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-25"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "dishes": [
+      {
+       "name": "Hackbraten mit Petersilienkartoffeln und Bohnengemüse",
+       "price": 9.0,
+       "date": "2026-11-26"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "dishes": [
+      {
+       "name": "Cordon Bleu mit Rahmsoße, Schwenkkartoffeln und Salat",
+       "price": 9.0,
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "dishes": [
+      {
+       "name": "Erbsensuppe mit Würstchen und Brötchen",
+       "price": 6.8,
+       "date": "2026-11-28"
+      },
+      {
+       "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+       "price": 6.0,
+       "daily": true,
+       "date": "2026-11-28"
+      }
+     ]
+    }
+   ],
    "status": "closed"
   },
   {
