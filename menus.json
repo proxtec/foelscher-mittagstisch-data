@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:35:58+01:00",
+ "updated": "2026-11-16T17:21:43+01:00",
  "date": "2026-11-16",
  "restaurants": [
   {
@@ -1567,30 +1567,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Ragù alla Genovese Penne mit Brew Bites Chunks Ragout",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-16"
-    },
-    {
-     "name": "Hähnchenbruststeak mit Kokos-Curry-Sauce mit Zuckerschoten und Basmatireis",
-     "price": 8.07,
-     "meal": "mittag",
-     "date": "2026-11-16"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-16"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-16"
-    },
-    {
      "name": "Kichererbsen Tikka Masala mit Langkornreis",
      "price": 6.57,
      "meal": "abend",
@@ -1637,30 +1613,6 @@
     {
      "date": "2026-11-16",
      "dishes": [
-      {
-       "name": "Ragù alla Genovese Penne mit Brew Bites Chunks Ragout",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-16"
-      },
-      {
-       "name": "Hähnchenbruststeak mit Kokos-Curry-Sauce mit Zuckerschoten und Basmatireis",
-       "price": 8.07,
-       "meal": "mittag",
-       "date": "2026-11-16"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-16"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-16"
-      },
       {
        "name": "Kichererbsen Tikka Masala mit Langkornreis",
        "price": 6.57,
