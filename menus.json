@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:30:58+01:00",
+ "updated": "2026-11-17T15:20:45+01:00",
  "date": "2026-11-17",
  "restaurants": [
   {
@@ -1491,42 +1491,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Vollkornpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Weizenpasta mit fruchtiger Tomatensauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Vollkornpasta mit fruchtiger Tomatensauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-17"
-    },
-    {
      "name": "Soja-Kokos-Gemüse mit Vollkornreis",
      "price": 6.47,
      "meal": "mittag",
@@ -1539,20 +1503,32 @@
      "date": "2026-11-17"
     },
     {
-     "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
-     "price": 7.17,
+     "name": "Weizenpasta mit Sauce Bolognese",
+     "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-17"
     },
     {
-     "name": "Paniertes Gemüseschnitzel mit veganer Sour-Cream und Langkornreis",
+     "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
-     "meal": "abend",
+     "meal": "mittag",
      "date": "2026-11-17"
     },
     {
      "name": "Ragù alla Genovese Penne mit Brew Bites Chunks Ragout",
      "price": 6.77,
+     "meal": "abend",
+     "date": "2026-11-17"
+    },
+    {
+     "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
+     "price": 7.17,
+     "meal": "abend",
+     "date": "2026-11-17"
+    },
+    {
+     "name": "Paniertes Hähnchenschnitzel mit Kokos-Curry-Sauce oder Zwiebelsauce und Langkornreis",
+     "price": 7.37,
      "meal": "abend",
      "date": "2026-11-17"
     },
@@ -1586,42 +1562,6 @@
      "date": "2026-11-17",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
-       "name": "Vollkornpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
-       "name": "Weizenpasta mit fruchtiger Tomatensauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
-       "name": "Vollkornpasta mit fruchtiger Tomatensauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-17"
-      },
-      {
        "name": "Soja-Kokos-Gemüse mit Vollkornreis",
        "price": 6.47,
        "meal": "mittag",
@@ -1634,20 +1574,32 @@
        "date": "2026-11-17"
       },
       {
-       "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
-       "price": 7.17,
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-17"
       },
       {
-       "name": "Paniertes Gemüseschnitzel mit veganer Sour-Cream und Langkornreis",
+       "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
-       "meal": "abend",
+       "meal": "mittag",
        "date": "2026-11-17"
       },
       {
        "name": "Ragù alla Genovese Penne mit Brew Bites Chunks Ragout",
        "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
+       "price": 7.17,
+       "meal": "abend",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Paniertes Hähnchenschnitzel mit Kokos-Curry-Sauce oder Zwiebelsauce und Langkornreis",
+       "price": 7.37,
        "meal": "abend",
        "date": "2026-11-17"
       },
