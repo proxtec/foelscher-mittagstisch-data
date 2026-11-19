@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:23:53+01:00",
+ "updated": "2026-11-19T17:01:12+01:00",
  "date": "2026-11-19",
  "restaurants": [
   {
@@ -1811,6 +1811,35 @@
        "price": 7.17,
        "meal": "mittag",
        "date": "2026-11-20"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "dishes": [
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
+       "price": 6.77,
+       "meal": "mittag",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "Weizenpasta mit Sojabolognese",
+       "price": 6.57,
+       "meal": "mittag",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "Kichererbsen Tikka Masala dazu Langkornreis Rezept von Studentin Paulina",
+       "price": 6.47,
+       "meal": "mittag",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "Herzhafte Frikadelle mit Zwiebelsauce und Ofen-Kartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+       "price": 8.37,
+       "meal": "mittag",
+       "date": "2026-11-21"
       }
      ]
     },
