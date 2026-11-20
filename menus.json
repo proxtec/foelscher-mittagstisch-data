@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:11:12+01:00",
+ "updated": "2026-11-20T13:13:45+01:00",
  "date": "2026-11-20",
  "restaurants": [
   {
@@ -1245,14 +1245,8 @@
      "date": "2026-11-20"
     },
     {
-     "name": "Gebackenes Seelachsfilet auf buntem Reissalat und Kokos-Curry-Sauce",
+     "name": "Seelachsfilet auf buntem Reissalat und Kokos-Curry-Sauce",
      "price": 9.07,
-     "meal": "mittag",
-     "date": "2026-11-20"
-    },
-    {
-     "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
-     "price": 7.17,
      "meal": "mittag",
      "date": "2026-11-20"
     }
@@ -1310,14 +1304,8 @@
        "date": "2026-11-20"
       },
       {
-       "name": "Gebackenes Seelachsfilet auf buntem Reissalat und Kokos-Curry-Sauce",
+       "name": "Seelachsfilet auf buntem Reissalat und Kokos-Curry-Sauce",
        "price": 9.07,
-       "meal": "mittag",
-       "date": "2026-11-20"
-      },
-      {
-       "name": "Thunfisch-Auflauf mit Penne und Gouda überbacken und Rucola",
-       "price": 7.17,
        "meal": "mittag",
        "date": "2026-11-20"
       }
