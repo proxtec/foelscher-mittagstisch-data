@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:50:36+01:00",
+ "updated": "2026-11-21T14:26:54+01:00",
  "date": "2026-11-21",
  "restaurants": [
   {
@@ -148,6 +148,267 @@
    "status": "ok"
   },
   {
+   "id": "subway-fulda",
+   "name": "Subway",
+   "premium": false,
+   "address": "Bahnhofstraße 5, 36037 Fulda",
+   "locations": [
+    "Alte Ziegelei 17, 36100 Petersberg"
+   ],
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
+   "dishes": [
+    {
+     "name": "Sub des Tages: Chicken Tandoori",
+     "price": 3.99,
+     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+     "date": "2026-11-21"
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-21",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-21"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-22"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-24"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-25"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-28"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-29"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-30"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-01"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-02"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-03",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-03"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-04"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-05",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-05"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-06"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-07",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-07"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-08",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-08"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-09",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-09"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-10"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-11",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-11"
+      }
+     ]
+    }
+   ],
+   "status": "ok"
+  },
+  {
    "id": "mensa-hs-fulda",
    "name": "Mensa Hochschule Fulda",
    "premium": false,
@@ -163,32 +424,7 @@
     5
    ],
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
-   "dishes": [
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-21"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-21"
-    },
-    {
-     "name": "Kichererbsen Tikka Masala dazu Langkornreis Rezept von Studentin Paulina",
-     "price": 6.47,
-     "meal": "mittag",
-     "date": "2026-11-21"
-    },
-    {
-     "name": "Herzhafte Frikadelle mit Zwiebelsauce und Ofen-Kartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.37,
-     "meal": "mittag",
-     "date": "2026-11-21"
-    }
-   ],
+   "dishes": [],
    "days": [
     {
      "date": "2026-11-21",
@@ -701,268 +937,7 @@
      ]
     }
    ],
-   "status": "ok"
-  },
-  {
-   "id": "subway-fulda",
-   "name": "Subway",
-   "premium": false,
-   "address": "Bahnhofstraße 5, 36037 Fulda",
-   "locations": [
-    "Alte Ziegelei 17, 36100 Petersberg"
-   ],
-   "lunchDays": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ],
-   "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
-   "dishes": [
-    {
-     "name": "Sub des Tages: Chicken Tandoori",
-     "price": 3.99,
-     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-     "date": "2026-11-21"
-    }
-   ],
-   "days": [
-    {
-     "date": "2026-11-21",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-21"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-22"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-23"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-24"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-25"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-26"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-27"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-28",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-28"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-29",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-29"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-30",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-30"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-01",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-01"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-02",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-02"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-03",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-03"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-04",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-04"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-05",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-05"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-06",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-06"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-07",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-07"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-08",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-08"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-09",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-09"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-10",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-10"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-11",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-11"
-      }
-     ]
-    }
-   ],
-   "status": "ok"
+   "status": "fallback"
   },
   {
    "id": "metzgerei-wehner",
