@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:42:13+01:00",
+ "updated": "2026-11-23T16:55:45+01:00",
  "date": "2026-11-23",
  "restaurants": [
   {
@@ -1483,30 +1483,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
-     "price": 6.47,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
-     "price": 7.17,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
      "name": "Bohnen-Zucchini-Chili dazu Reis",
      "price": 6.47,
      "meal": "abend",
@@ -1553,30 +1529,6 @@
     {
      "date": "2026-11-23",
      "dishes": [
-      {
-       "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
-       "price": 6.47,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
-       "price": 7.17,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
       {
        "name": "Bohnen-Zucchini-Chili dazu Reis",
        "price": 6.47,
