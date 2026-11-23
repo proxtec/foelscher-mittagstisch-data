@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:55:43+01:00",
+ "updated": "2026-11-23T14:42:13+01:00",
  "date": "2026-11-23",
  "restaurants": [
   {
@@ -1483,13 +1483,19 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
+     "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
+     "price": 6.47,
      "meal": "mittag",
      "date": "2026-11-23"
     },
     {
-     "name": "Vollkornpasta mit Sauce Bolognese",
+     "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
+     "price": 7.17,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-23"
@@ -1497,42 +1503,6 @@
     {
      "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Weizenpasta mit Kürbis-Currysauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Vollkornpasta mit Kürbis-Currysauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
-     "price": 6.47,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Hähnchenbrust \"Cajun\" mit Joghurtdip und Salzkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 7.97,
-     "meal": "mittag",
-     "date": "2026-11-23"
-    },
-    {
-     "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
-     "price": 7.17,
      "meal": "mittag",
      "date": "2026-11-23"
     },
@@ -1584,13 +1554,19 @@
      "date": "2026-11-23",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
+       "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
+       "price": 6.47,
        "meal": "mittag",
        "date": "2026-11-23"
       },
       {
-       "name": "Vollkornpasta mit Sauce Bolognese",
+       "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
+       "price": 7.17,
+       "meal": "mittag",
+       "date": "2026-11-23"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-23"
@@ -1598,42 +1574,6 @@
       {
        "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Weizenpasta mit Kürbis-Currysauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Vollkornpasta mit Kürbis-Currysauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
-       "price": 6.47,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Hähnchenbrust \"Cajun\" mit Joghurtdip und Salzkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 7.97,
-       "meal": "mittag",
-       "date": "2026-11-23"
-      },
-      {
-       "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
-       "price": 7.17,
        "meal": "mittag",
        "date": "2026-11-23"
       },
