@@ -1,278 +1,7 @@
 {
- "updated": "2026-11-22T18:56:59+01:00",
- "date": "2026-11-22",
+ "updated": "2026-11-23T11:55:43+01:00",
+ "date": "2026-11-23",
  "restaurants": [
-  {
-   "id": "subway-fulda",
-   "name": "Subway",
-   "premium": false,
-   "address": "Bahnhofstraße 5, 36037 Fulda",
-   "locations": [
-    "Alte Ziegelei 17, 36100 Petersberg"
-   ],
-   "lunchDays": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-   ],
-   "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
-   "dishes": [
-    {
-     "name": "Sub des Tages: BBQ Rib",
-     "price": 3.99,
-     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-     "date": "2026-11-22"
-    }
-   ],
-   "days": [
-    {
-     "date": "2026-11-22",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-22"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-23"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-24"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-25"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-26"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-27"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-28",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-28"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-29",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-29"
-      }
-     ]
-    },
-    {
-     "date": "2026-11-30",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-11-30"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-01",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-01"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-02",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-02"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-03",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-03"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-04",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-04"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-05",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-05"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-06",
-     "dishes": [
-      {
-       "name": "Sub des Tages: BBQ Rib",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-06"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-07",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Italian B.M.T.",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-07"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-08",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Nacho Chicken",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-08"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-09",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-09"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-10",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Fajita",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-10"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-11",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Tuna",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-11"
-      }
-     ]
-    },
-    {
-     "date": "2026-12-12",
-     "dishes": [
-      {
-       "name": "Sub des Tages: Chicken Tandoori",
-       "price": 3.99,
-       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-       "date": "2026-12-12"
-      }
-     ]
-    }
-   ],
-   "status": "ok"
-  },
-  {
-   "id": "metzgerei-wehner",
-   "name": "Fleischerei Wehner",
-   "premium": false,
-   "address": "Wallweg 26, 36043 Fulda",
-   "fallbackUrl": "https://www.instagram.com/fleischerei_wehner/",
-   "dishes": [],
-   "days": [],
-   "status": "link"
-  },
   {
    "id": "es-bar",
    "name": "E.S-Bar",
@@ -286,7 +15,77 @@
     4
    ],
    "fallbackUrl": "https://www.es-bar.com/assets/es-bar/speisekarte_esbar.pdf",
-   "dishes": [],
+   "dishes": [
+    {
+     "name": "Hamburger",
+     "price": 8.5,
+     "date": "2026-11-23",
+     "note": "Der Klassiker"
+    },
+    {
+     "name": "Cheeseburger",
+     "price": 9.5,
+     "date": "2026-11-23",
+     "note": "plus Käse und gebratenen Zwiebeln"
+    },
+    {
+     "name": "BBQ Burger",
+     "price": 11.0,
+     "date": "2026-11-23",
+     "note": "Bacon & BBQ-Soße"
+    },
+    {
+     "name": "Chicken Burger",
+     "price": 11.0,
+     "date": "2026-11-23",
+     "note": "Knuspriges Hähnchen, Caesar-Style"
+    },
+    {
+     "name": "Grillgemüse Burger (vegetarisch)",
+     "price": 9.5,
+     "date": "2026-11-23",
+     "note": "Mediterranes Gemüse im Brioche"
+    },
+    {
+     "name": "Camembert Burger (vegetarisch)",
+     "price": 11.0,
+     "date": "2026-11-23",
+     "note": "Cremiger Käse mit Preiselbeeren"
+    },
+    {
+     "name": "Kartoffelsuppe",
+     "price": 7.0,
+     "date": "2026-11-23",
+     "note": "mit Brot aus der Backstube"
+    },
+    {
+     "name": "Gulaschsuppe",
+     "price": 8.5,
+     "date": "2026-11-23",
+     "note": "mit Brot aus der Backstube"
+    },
+    {
+     "name": "Bratwurst",
+     "price": 4.0,
+     "date": "2026-11-23",
+     "note": "im Brötchen oder mit Brot"
+    },
+    {
+     "name": "Rindswurst",
+     "price": 4.0,
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Currywurst",
+     "price": 4.5,
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Currywurst mit Pommes",
+     "price": 8.0,
+     "date": "2026-11-23"
+    }
+   ],
    "days": [
     {
      "date": "2026-11-23",
@@ -1029,7 +828,7 @@
      ]
     }
    ],
-   "status": "closed"
+   "status": "ok"
   },
   {
    "id": "fleischerei-gies",
@@ -1050,7 +849,75 @@
     4
    ],
    "fallbackUrl": "https://fleischerei-gies.de/#mittagstisch",
-   "dishes": [],
+   "dishes": [
+    {
+     "name": "Gekochtes Rippchen und Eisbeinscheiben, dazu Sauerkraut und Kartoffelpüree",
+     "price": 9.4,
+     "date": "2026-11-23",
+     "note": "Menü 1"
+    },
+    {
+     "name": "_Möhren-Lauch-Kartoffelauflauf mit Hollandaise, dazu Obst-Dessert (veget.)",
+     "price": 7.5,
+     "date": "2026-11-23",
+     "note": "Menü 2"
+    },
+    {
+     "name": "Salat ‚Art des Hauses“ mit verschiedenen Salaten",
+     "price": 6.8,
+     "date": "2026-11-23",
+     "note": "Menü 3"
+    },
+    {
+     "name": "Schnitzel mit Soße, Pommes und Salat",
+     "price": 8.8,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Klops mit Bratensoße und Kartoffelsalat oder Pommes",
+     "price": 6.2,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Portion Gulaschsuppe mit Brötchen AB.CFK",
+     "price": 7.6,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Salatteller",
+     "price": 6.8,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Hsm. Bratwurst mit Bratensoße und Kartoffelsalat oder Pommes",
+     "price": 6.5,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Salamibaguette",
+     "price": 3.9,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    },
+    {
+     "name": "Schinkenbaguette ?FAEH.K",
+     "price": 3.9,
+     "date": "2026-11-23",
+     "note": "täglich",
+     "daily": true
+    }
+   ],
    "days": [
     {
      "date": "2026-11-23",
@@ -1467,7 +1334,7 @@
      ]
     }
    ],
-   "status": "closed"
+   "status": "ok"
   },
   {
    "id": "metzgerei-schneider",
@@ -1485,7 +1352,19 @@
     5
    ],
    "fallbackUrl": "https://www.fleischerei-schneider.com/wochenmen%C3%BC/",
-   "dishes": [],
+   "dishes": [
+    {
+     "name": "Putenrahmgeschnetzeltes mit Spätzle und Salat",
+     "price": 9.0,
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Vegetarische Frühlingsrollen mit Asia Dip",
+     "price": 6.0,
+     "daily": true,
+     "date": "2026-11-23"
+    }
+   ],
    "days": [
     {
      "date": "2026-11-23",
@@ -1584,7 +1463,7 @@
      ]
     }
    ],
-   "status": "closed"
+   "status": "ok"
   },
   {
    "id": "mensa-hs-fulda",
@@ -1602,7 +1481,104 @@
     5
    ],
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
-   "dishes": [],
+   "dishes": [
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
+     "price": 6.77,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Vollkornpasta mit Sauce Bolognese",
+     "price": 6.77,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Weizenpasta mit Sojabolognese",
+     "price": 6.57,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Vollkornpasta mit Sojabolognese",
+     "price": 6.57,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Weizenpasta mit Kürbis-Currysauce",
+     "price": 6.37,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Vollkornpasta mit Kürbis-Currysauce",
+     "price": 6.37,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
+     "price": 6.47,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Hähnchenbrust \"Cajun\" mit Joghurtdip und Salzkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+     "price": 7.97,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Fischragout vom Seelachsfilet in Gemüse-Senfsauce mit Linguine-Nudeln",
+     "price": 7.17,
+     "meal": "mittag",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Bohnen-Zucchini-Chili dazu Reis",
+     "price": 6.47,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Gemüse-Nuggets mit Sour-Cream und Langkornreis",
+     "price": 6.77,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Chicken Nuggets mit Joghurtdip mit Langkornreis",
+     "price": 7.37,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
+     "price": 6.77,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Weizenpasta mit Paprika-Maissauce",
+     "price": 6.37,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Vegane Salatbowl mit bunten Salaten der Saison dazu Vinaigrette und einem Roggenbrötchen",
+     "price": 7.92,
+     "meal": "abend",
+     "date": "2026-11-23"
+    },
+    {
+     "name": "Bunte Salatbowl mit bunten Salaten der Saison dazu Rahmdressing und einem Roggenbrötchen",
+     "price": 7.92,
+     "meal": "abend",
+     "date": "2026-11-23"
+    }
+   ],
    "days": [
     {
      "date": "2026-11-23",
@@ -1632,19 +1608,19 @@
        "date": "2026-11-23"
       },
       {
-       "name": "Weizenpasta",
+       "name": "Weizenpasta mit Kürbis-Currysauce",
        "price": 6.37,
        "meal": "mittag",
        "date": "2026-11-23"
       },
       {
-       "name": "Vollkornpasta",
+       "name": "Vollkornpasta mit Kürbis-Currysauce",
        "price": 6.37,
        "meal": "mittag",
        "date": "2026-11-23"
       },
       {
-       "name": "Tofusteak mit Ratatouillegemüse und Kräuter-Vollkornreis",
+       "name": "Ratatouillegemüse mit Räucher-Tofu und Langkornreis",
        "price": 6.47,
        "meal": "mittag",
        "date": "2026-11-23"
@@ -1662,19 +1638,19 @@
        "date": "2026-11-23"
       },
       {
-       "name": "Kichererbsen Tikka Masala mit Langkornreis",
-       "price": 6.57,
+       "name": "Bohnen-Zucchini-Chili dazu Reis",
+       "price": 6.47,
        "meal": "abend",
        "date": "2026-11-23"
       },
       {
-       "name": "Gemüse-Nuggets mit Dip/Sauce des Tages und Langkornreis",
+       "name": "Gemüse-Nuggets mit Sour-Cream und Langkornreis",
        "price": 6.77,
        "meal": "abend",
        "date": "2026-11-23"
       },
       {
-       "name": "Chicken Nuggets mit Dip/Sauce des Tages mit Langkornreis",
+       "name": "Chicken Nuggets mit Joghurtdip mit Langkornreis",
        "price": 7.37,
        "meal": "abend",
        "date": "2026-11-23"
@@ -1682,6 +1658,12 @@
       {
        "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
+       "meal": "abend",
+       "date": "2026-11-23"
+      },
+      {
+       "name": "Weizenpasta mit Paprika-Maissauce",
+       "price": 6.37,
        "meal": "abend",
        "date": "2026-11-23"
       },
@@ -2567,7 +2549,7 @@
      ]
     }
    ],
-   "status": "closed"
+   "status": "ok"
   },
   {
    "id": "metzgerei-robert-mueller",
@@ -2583,7 +2565,13 @@
     4
    ],
    "fallbackUrl": "https://www.metzgerei-robert-mueller.de/angebote/",
-   "dishes": [],
+   "dishes": [
+    {
+     "name": "Kotelett Gebraten mit Kartoffeln und Gemüse",
+     "price": 8.95,
+     "date": "2026-11-23"
+    }
+   ],
    "days": [
     {
      "date": "2026-11-23",
@@ -2636,7 +2624,278 @@
      ]
     }
    ],
-   "status": "closed"
+   "status": "ok"
+  },
+  {
+   "id": "subway-fulda",
+   "name": "Subway",
+   "premium": false,
+   "address": "Bahnhofstraße 5, 36037 Fulda",
+   "locations": [
+    "Alte Ziegelei 17, 36100 Petersberg"
+   ],
+   "lunchDays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
+   "dishes": [
+    {
+     "name": "Sub des Tages: Italian B.M.T.",
+     "price": 3.99,
+     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+     "date": "2026-11-23"
+    }
+   ],
+   "days": [
+    {
+     "date": "2026-11-23",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-23"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-24"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-25"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-28"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-29"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-11-30"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-01"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-02"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-03",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-03"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-04",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-04"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-05",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-05"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-06"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-07",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Italian B.M.T.",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-07"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-08",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Nacho Chicken",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-08"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-09",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Plant-based Chicken Teriyaki",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-09"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-10",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Fajita",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-10"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-11",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Tuna",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-11"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-12",
+     "dishes": [
+      {
+       "name": "Sub des Tages: Chicken Tandoori",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-12"
+      }
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "dishes": [
+      {
+       "name": "Sub des Tages: BBQ Rib",
+       "price": 3.99,
+       "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
+       "date": "2026-12-13"
+      }
+     ]
+    }
+   ],
+   "status": "ok"
+  },
+  {
+   "id": "metzgerei-wehner",
+   "name": "Fleischerei Wehner",
+   "premium": false,
+   "address": "Wallweg 26, 36043 Fulda",
+   "fallbackUrl": "https://www.instagram.com/fleischerei_wehner/",
+   "dishes": [],
+   "days": [],
+   "status": "link"
   },
   {
    "id": "metzgerei-wiegand",
