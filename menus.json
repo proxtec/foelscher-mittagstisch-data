@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:19:46+01:00",
+ "updated": "2026-11-24T16:49:05+01:00",
  "date": "2026-11-24",
  "restaurants": [
   {
@@ -1395,30 +1395,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.47,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
      "name": "Kichererbsen Tikka Masala mit Langkornreis",
      "price": 6.57,
      "meal": "abend",
@@ -1477,30 +1453,6 @@
     {
      "date": "2026-11-24",
      "dishes": [
-      {
-       "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.47,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
       {
        "name": "Kichererbsen Tikka Masala mit Langkornreis",
        "price": 6.57,
@@ -1978,7 +1930,7 @@
       },
       {
        "name": "Eblypfanne mit Schmorgemüse und veganem Knoblauch-VeJog",
-       "price": 7.07,
+       "price": 6.97,
        "meal": "mittag",
        "date": "2026-12-01"
       },
