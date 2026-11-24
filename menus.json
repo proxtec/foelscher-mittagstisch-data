@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:39:09+01:00",
+ "updated": "2026-11-24T15:19:46+01:00",
  "date": "2026-11-24",
  "restaurants": [
   {
@@ -1395,13 +1395,19 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
+     "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
      "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-24"
     },
     {
-     "name": "Vollkornpasta mit Sauce Bolognese",
+     "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+     "price": 8.47,
+     "meal": "mittag",
+     "date": "2026-11-24"
+    },
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-24"
@@ -1409,42 +1415,6 @@
     {
      "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Weizenpasta mit fruchtiger Tomatensauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Vollkornpasta mit fruchtiger Tomatensauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Käsespätzle mit Greyerzer mit Röstzwiebeln und Salatgarnitur",
-     "price": 7.07,
-     "meal": "mittag",
-     "date": "2026-11-24"
-    },
-    {
-     "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.47,
      "meal": "mittag",
      "date": "2026-11-24"
     },
@@ -1508,13 +1478,19 @@
      "date": "2026-11-24",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
+       "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
        "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-24"
       },
       {
-       "name": "Vollkornpasta mit Sauce Bolognese",
+       "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+       "price": 8.47,
+       "meal": "mittag",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-24"
@@ -1522,42 +1498,6 @@
       {
        "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Weizenpasta mit fruchtiger Tomatensauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Vollkornpasta mit fruchtiger Tomatensauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Käsespätzle mit Greyerzer mit Röstzwiebeln und Salatgarnitur",
-       "price": 7.07,
-       "meal": "mittag",
-       "date": "2026-11-24"
-      },
-      {
-       "name": "Kassler Schweinebraten mit Sauerkraut und Kartoffelpüree dazu Senf Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.47,
        "meal": "mittag",
        "date": "2026-11-24"
       },
