@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:33:24+01:00",
+ "updated": "2026-11-25T16:32:49+01:00",
  "date": "2026-11-25",
  "restaurants": [
   {
@@ -1307,30 +1307,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
-     "price": 6.87,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.57,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
      "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
      "price": 6.77,
      "meal": "abend",
@@ -1383,30 +1359,6 @@
     {
      "date": "2026-11-25",
      "dishes": [
-      {
-       "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
-       "price": 6.87,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.57,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
       {
        "name": "Süßkartoffelragout mit Zartbitterschokolade, Cranberries und Tofu",
        "price": 6.77,
