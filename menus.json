@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:38:35+01:00",
+ "updated": "2026-11-25T21:01:32+01:00",
  "date": "2026-11-25",
  "restaurants": [
   {
@@ -2244,14 +2244,7 @@
     6
    ],
    "fallbackUrl": "https://www.subway.com/de-de/campaigns/suboftheday",
-   "dishes": [
-    {
-     "name": "Sub des Tages: Plant-based Chicken Teriyaki",
-     "price": 3.99,
-     "note": "Footlong 7,98 € · Menü 5,99 € / 9,98 €",
-     "date": "2026-11-25"
-    }
-   ],
+   "dishes": [],
    "days": [
     {
      "date": "2026-11-25",
@@ -2485,7 +2478,7 @@
      ]
     }
    ],
-   "status": "ok"
+   "status": "fallback"
   },
   {
    "id": "metzgerei-wehner",
