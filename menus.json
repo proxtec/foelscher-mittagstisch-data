@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:31:23+01:00",
+ "updated": "2026-11-25T14:33:24+01:00",
  "date": "2026-11-25",
  "restaurants": [
   {
@@ -1307,13 +1307,19 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
+     "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
+     "price": 6.87,
      "meal": "mittag",
      "date": "2026-11-25"
     },
     {
-     "name": "Vollkornpasta mit Sauce Bolognese",
+     "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+     "price": 8.57,
+     "meal": "mittag",
+     "date": "2026-11-25"
+    },
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-25"
@@ -1321,42 +1327,6 @@
     {
      "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Weizenpasta mit Cheddar-Cheese-Sauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Vollkornpasta mit Cheddar-Cheese-Sauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
-     "price": 6.87,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Paniertes Gemüseschnitzel auf Champignon-Rahmgemüse und Bratkartoffeln",
-     "price": 7.27,
-     "meal": "mittag",
-     "date": "2026-11-25"
-    },
-    {
-     "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.57,
      "meal": "mittag",
      "date": "2026-11-25"
     },
@@ -1414,13 +1384,19 @@
      "date": "2026-11-25",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
+       "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
+       "price": 6.87,
        "meal": "mittag",
        "date": "2026-11-25"
       },
       {
-       "name": "Vollkornpasta mit Sauce Bolognese",
+       "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
+       "price": 8.57,
+       "meal": "mittag",
+       "date": "2026-11-25"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-25"
@@ -1428,42 +1404,6 @@
       {
        "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Weizenpasta mit Cheddar-Cheese-Sauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Vollkornpasta mit Cheddar-Cheese-Sauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Mangocurry mit Bananen und Paprika, dazu Langkornreis",
-       "price": 6.87,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Paniertes Gemüseschnitzel auf Champignon-Rahmgemüse und Bratkartoffeln",
-       "price": 7.27,
-       "meal": "mittag",
-       "date": "2026-11-25"
-      },
-      {
-       "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.57,
        "meal": "mittag",
        "date": "2026-11-25"
       },
