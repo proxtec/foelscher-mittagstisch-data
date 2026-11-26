@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:04:55+01:00",
+ "updated": "2026-11-26T14:13:03+01:00",
  "date": "2026-11-26",
  "restaurants": [
   {
@@ -1219,13 +1219,19 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
+     "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
+     "price": 6.47,
      "meal": "mittag",
      "date": "2026-11-26"
     },
     {
-     "name": "Vollkornpasta mit Sauce Bolognese",
+     "name": "Paniertes Hähnchenschnitzel mit fruchtiger Tomatensauce und Pommes frites",
+     "price": 7.67,
+     "meal": "mittag",
+     "date": "2026-11-26"
+    },
+    {
+     "name": "Weizenpasta mit Sauce Bolognese",
      "price": 6.77,
      "meal": "mittag",
      "date": "2026-11-26"
@@ -1233,42 +1239,6 @@
     {
      "name": "Weizenpasta mit Sojabolognese",
      "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Vollkornpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Weizenpasta mit Gemüse-Sahnesauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Vollkornpasta mit Gemüse-Sahnesauce",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Veganer Leberkäse mit Bayrisch Kraut und Bratkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.17,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
-     "price": 6.47,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Paniertes Hähnchenschnitzel mit Curryrahmsauce und Spätzle",
-     "price": 7.67,
      "meal": "mittag",
      "date": "2026-11-26"
     },
@@ -1326,13 +1296,19 @@
      "date": "2026-11-26",
      "dishes": [
       {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
+       "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
+       "price": 6.47,
        "meal": "mittag",
        "date": "2026-11-26"
       },
       {
-       "name": "Vollkornpasta mit Sauce Bolognese",
+       "name": "Paniertes Hähnchenschnitzel mit fruchtiger Tomatensauce und Pommes frites",
+       "price": 7.67,
+       "meal": "mittag",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "Weizenpasta mit Sauce Bolognese",
        "price": 6.77,
        "meal": "mittag",
        "date": "2026-11-26"
@@ -1340,42 +1316,6 @@
       {
        "name": "Weizenpasta mit Sojabolognese",
        "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Vollkornpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Weizenpasta mit Gemüse-Sahnesauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Vollkornpasta mit Gemüse-Sahnesauce",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Veganer Leberkäse mit Bayrisch Kraut und Bratkartoffeln Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.17,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
-       "price": 6.47,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Paniertes Hähnchenschnitzel mit Curryrahmsauce und Spätzle",
-       "price": 7.67,
        "meal": "mittag",
        "date": "2026-11-26"
       },
