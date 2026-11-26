@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:13:03+01:00",
+ "updated": "2026-11-26T16:07:25+01:00",
  "date": "2026-11-26",
  "restaurants": [
   {
@@ -1219,30 +1219,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
-     "price": 6.47,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Paniertes Hähnchenschnitzel mit fruchtiger Tomatensauce und Pommes frites",
-     "price": 7.67,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-26"
-    },
-    {
      "name": "Mangocurry mit Bananen und Paprika, dazu Reis",
      "price": 6.77,
      "meal": "abend",
@@ -1295,30 +1271,6 @@
     {
      "date": "2026-11-26",
      "dishes": [
-      {
-       "name": "Blumenkohl-Käsetaler mit Tomatensauce und Kräuterreis",
-       "price": 6.47,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Paniertes Hähnchenschnitzel mit fruchtiger Tomatensauce und Pommes frites",
-       "price": 7.67,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-26"
-      },
       {
        "name": "Mangocurry mit Bananen und Paprika, dazu Reis",
        "price": 6.77,
