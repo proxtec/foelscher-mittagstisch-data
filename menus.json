@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:59:28+01:00",
+ "updated": "2026-11-27T17:57:57+01:00",
  "date": "2026-11-27",
  "restaurants": [
   {
@@ -1125,36 +1125,6 @@
    "fallbackUrl": "https://www.stwgi.de/mensa-hochschule-fulda",
    "dishes": [
     {
-     "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-     "price": 8.47,
-     "meal": "mittag",
-     "date": "2026-11-27"
-    },
-    {
-     "name": "Fischstäbchen mit Kartoffelsalat und pikanter Tomatensalsa",
-     "price": 8.37,
-     "meal": "mittag",
-     "date": "2026-11-27"
-    },
-    {
-     "name": "Weizenpasta mit Sauce Bolognese",
-     "price": 6.77,
-     "meal": "mittag",
-     "date": "2026-11-27"
-    },
-    {
-     "name": "Weizenpasta Süßkartoffelcurry",
-     "price": 6.37,
-     "meal": "mittag",
-     "date": "2026-11-27"
-    },
-    {
-     "name": "Weizenpasta mit Sojabolognese",
-     "price": 6.57,
-     "meal": "mittag",
-     "date": "2026-11-27"
-    },
-    {
      "name": "Kreolisches Süßkartoffelcurry mit Reis",
      "price": 6.57,
      "meal": "abend",
@@ -1195,36 +1165,6 @@
     {
      "date": "2026-11-27",
      "dishes": [
-      {
-       "name": "Zucchini-Kartoffel-Moussaka mit Rinderhackfleisch, Hirtenkäse und einer Salatgarnitur Kartoffeln aus ökologischem Anbau DE-ÖKO-007",
-       "price": 8.47,
-       "meal": "mittag",
-       "date": "2026-11-27"
-      },
-      {
-       "name": "Fischstäbchen mit Kartoffelsalat und pikanter Tomatensalsa",
-       "price": 8.37,
-       "meal": "mittag",
-       "date": "2026-11-27"
-      },
-      {
-       "name": "Weizenpasta mit Sauce Bolognese",
-       "price": 6.77,
-       "meal": "mittag",
-       "date": "2026-11-27"
-      },
-      {
-       "name": "Weizenpasta Süßkartoffelcurry",
-       "price": 6.37,
-       "meal": "mittag",
-       "date": "2026-11-27"
-      },
-      {
-       "name": "Weizenpasta mit Sojabolognese",
-       "price": 6.57,
-       "meal": "mittag",
-       "date": "2026-11-27"
-      },
       {
        "name": "Kreolisches Süßkartoffelcurry mit Reis",
        "price": 6.57,
